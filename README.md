@@ -10,5 +10,10 @@ Desenvolvido utilizando
 - Node-RED on IBM Cloud
 - Watson Assistant on IBM Cloud
 - Watson Visual Recognition on IBM Cloud
+- Cloud Foundry on IBM Cloud
+- Continuous Delivery on IBM Cloud
+- Google Flutter
+- Eclipse Orion Web IDE 
+- Microsoft Visual Studio Code
 - Twilio
 - Facebook for Developers
